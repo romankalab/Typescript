@@ -1,3 +1,3 @@
-var message = "Hello Appslab 2020!";
+var message = "Hello Appslab!";
 console.log(message);
 //# sourceMappingURL=helloAppslabTs.js.map

@@ -1,2 +1,2 @@
-var message:string = "Hello Appslab 2020!"
+var message:string = "Hello Appslab!"
 console.log(message)
